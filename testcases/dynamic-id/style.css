@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to left, #ACBB78, #799F0C); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-container a{
+    margin-bottom: 10px;
+}
