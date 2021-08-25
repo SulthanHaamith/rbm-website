@@ -7,4 +7,6 @@ body{
     margin-bottom: 2rem;
     background-color: #e9ecef;
     border-radius: .3rem;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
   }
