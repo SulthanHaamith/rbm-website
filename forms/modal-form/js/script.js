@@ -32,6 +32,6 @@ document.getElementById("submit-form").onclick = function () {
       errormsg.innerText = error;
     }else{
       errormsg.style.display ="none";
-      setTimeout(function(){ location.href = "../../../websites/loruki/index.html"; }, 5000);
+      setTimeout(function(){ location.href = "../../websites/loruki/index.html"; }, 5000);
     }
 };
